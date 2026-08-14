@@ -125,7 +125,7 @@ export const renderHero = () => {
 
           <!-- Bottom Card Stamp -->
           <div class="pt-2 flex items-center justify-between border-t-2 border-black text-xs font-mono font-black">
-            <span class="bg-accent-yellow border border-black px-2 py-0.5">VERIFIED CSE '26</span>
+            <span class="bg-accent-yellow border border-black px-2 py-0.5">VERIFIED CSE '29</span>
             <span class="text-slate-500">CTRL + CREATE ⌘</span>
           </div>
 

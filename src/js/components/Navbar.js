@@ -12,7 +12,7 @@ export const renderNavbar = () => {
           </div>
           <div class="hidden sm:flex items-center gap-2 bg-paper border-2 border-black px-2 py-0.5 font-mono text-xs font-bold shadow-[2px_2px_0px_#000]">
             <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-            <span>B.TECH CSE '26</span>
+            <span>B.TECH CSE '29</span>
           </div>
         </a>
 

@@ -9,7 +9,7 @@ export const renderFooter = () => {
         <div class="animate-marquee whitespace-nowrap flex gap-8">
           <span>⚡ NAVYA MITTAL</span>
           <span>•</span>
-          <span>B.TECH CSE '26 @ GLA UNIVERSITY</span>
+          <span>B.TECH CSE '29 @ GLA UNIVERSITY</span>
           <span>•</span>
           <span>CODE → DATA → PRODUCTS</span>
           <span>•</span>
@@ -19,7 +19,7 @@ export const renderFooter = () => {
           <span>•</span>
           <span>⚡ NAVYA MITTAL</span>
           <span>•</span>
-          <span>B.TECH CSE '26 @ GLA UNIVERSITY</span>
+          <span>B.TECH CSE '29 @ GLA UNIVERSITY</span>
           <span>•</span>
           <span>CODE → DATA → PRODUCTS</span>
           <span>•</span>
