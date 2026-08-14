@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Navya Mittal — Neo-Brutalist Developer Portfolio | B.Tech CSE</title>
+  <meta name="description" content="Production-quality Neo-Brutalist Developer Portfolio of Navya Mittal, B.Tech Computer Science Student at GLA University. Specializing in Software Engineering, Data Pipelines, Python & SQL." />
+  <meta name="keywords" content="Navya Mittal, Developer Portfolio, Neo-Brutalism, GLA University, Computer Science, Data Engineering, Python, SQL, B.Tech CSE" />
+  <meta property="og:title" content="Navya Mittal — Developer Portfolio" />
+  <meta property="og:description" content="B.Tech Computer Science student building software, data pipelines, and web products." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.linkedin.com/in/naveen-mittal-07b18a383/" />
+  
+  <!-- Tailwind CSS Engine -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            'paper': '#F4F0EA',
+            'paper-light': '#FAF6F0',
+            'accent-yellow': '#FFE600',
+            'accent-blue': '#2563EB',
+            'accent-green': '#10B981',
+            'accent-red': '#FF3333',
+            'accent-purple': '#8B5CF6',
+            'accent-pink': '#EC4899',
+          },
+          fontFamily: {
+            display: ['Space Grotesk', 'Plus Jakarta Sans', 'sans-serif'],
+            heading: ['Plus Jakarta Sans', 'sans-serif'],
+            mono: ['JetBrains Mono', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <!-- Custom Neo-Brutalist CSS Tokens -->
+  <link rel="stylesheet" href="./src/styles/brutalist.css" />
+</head>
+<body class="bg-paper text-black selection:bg-accent-yellow selection:text-black font-display antialiased bg-grid-pattern min-h-screen flex flex-col justify-between">
+  
+  <!-- Accessibility Skip Link -->
+  <a href="#main-content" class="sr-only focus:not-sr-only focus:fixed focus:top-4 focus:left-4 z-50 bg-accent-yellow text-black font-bold p-3 border-4 border-black shadow-[4px_4px_0px_#000]">
+    SKIP TO CONTENT →
+  </a>
+
+  <!-- Navigation Bar Container -->
+  <header id="navbar-container" class="sticky top-0 z-40 w-full"></header>
+
+  <!-- Main Scrollable Content -->
+  <main id="main-content" class="flex-grow w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-24">
+    
+    <!-- Hero Section -->
+    <section id="hero" class="pt-4 scroll-mt-24"></section>
+
+    <!-- About Me Section -->
+    <section id="about" class="scroll-mt-24"></section>
+
+    <!-- Tech Stack & Skills Section -->
+    <section id="skills" class="scroll-mt-24"></section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="scroll-mt-24"></section>
+
+    <!-- Education Section -->
+    <section id="education" class="scroll-mt-24"></section>
+
+    <!-- Certifications Section -->
+    <section id="certifications" class="scroll-mt-24"></section>
+
+    <!-- Currently Learning Section -->
+    <section id="rabbithole" class="scroll-mt-24"></section>
+
+    <!-- Interactive Playground Section -->
+    <section id="playground" class="scroll-mt-24"></section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="scroll-mt-24"></section>
+
+  </main>
+
+  <!-- Footer Section -->
+  <footer id="footer-container" class="w-full mt-24"></footer>
+
+  <!-- Project Detail Modal Container -->
+  <div id="project-modal-container" class="fixed inset-0 z-50 hidden flex items-center justify-center p-4 brutal-modal-backdrop"></div>
+
+  <!-- Toast Notification Overlay -->
+  <div id="toast-container" class="fixed bottom-6 right-6 z-50 flex flex-col gap-3 pointer-events-none"></div>
+
+  <!-- Main JavaScript Bundle -->
+  <script type="module" src="./src/js/app.js"></script>
+
+</body>
+</html>
