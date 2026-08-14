@@ -5,12 +5,12 @@
 
 export const personalInfo = {
   name: "Navya Mittal",
-  title: "B.Tech Computer Science Student & Aspiring Software/Data Professional",
+  title: "B.Tech Computer Science(AI & ML) Student & Aspiring Software/Data Professional",
   shortName: "NAVYA.M",
   role: "B.Tech CSE Student",
   institution: "GLA University, Mathura",
-  degree: "B.Tech in Computer Science & Engineering",
-  graduationYear: "2026",
+  degree: "B.Tech in Computer Science & Engineering(AI & ML)",
+  graduationYear: "2029",
   location: "Mathura, India",
   status: "BUILD MODE: ON",
   currentlyLearningStatus: "ADVANCED DATA ENGINEERING & CLOUD SYSTEMS",
@@ -192,12 +192,12 @@ export const projectsData = [
 ];
 
 export const educationData = {
-  degree: "B.TECH IN COMPUTER SCIENCE & ENGINEERING",
+  degree: "B.TECH IN COMPUTER SCIENCE & ENGINEERING(AI & ML)",
   institution: "GLA UNIVERSITY",
-  location: "Mathura, Uttar Pradesh, India",
-  duration: "2022 - 2026 (Expected)",
+    location: "Mathura, Uttar Pradesh, India",
+    duration: "2025 - 2029 (Expected)",
   status: "CURRENTLY PURSUING",
-  studentCardId: "GLA-CSE-2026-NM",
+  studentCardId: "GLA-CSE-2029-NM",
   highlights: [
     "Core focus on Database Management Systems (DBMS), Operating Systems, Software Engineering, and Object-Oriented Programming.",
     "Hands-on lab work in SQL relational database design, Python programming, and Software Engineering methodologies.",
@@ -298,9 +298,9 @@ TOOLS/CLOUD : Microsoft Azure, Git, GitHub, VS Code`,
 02. Relational Database & Inventory System [SQL + MongoDB]
 03. Exploratory Data Cleansing & Analysis Suite [Python + Pandas]
 04. Interactive Neo-Brutalist Developer Portfolio [JS + CSS3]`,
-  education: `DEGREE      : B.Tech Computer Science & Engineering
+  education: `DEGREE      : B.Tech Computer Science & Engineering(AI & ML)
 INSTITUTION : GLA University, Mathura, India
-TIMELINE    : 2022 - 2026`,
+TIMELINE    : 2025 - 2029`,
   contact: `LINKEDIN : https://www.linkedin.com/in/naveen-mittal-07b18a383/
 GITHUB   : https://github.com/NaveensGit2007
 EMAIL    : mittalnaveen294@gmail.com

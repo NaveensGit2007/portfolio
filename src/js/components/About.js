@@ -51,7 +51,7 @@ export const renderAbout = () => {
         <div class="lg:col-span-6 space-y-4">
           <div class="bg-black text-white p-3 border-2 border-black font-mono text-xs font-extrabold flex justify-between items-center">
             <span>DEVELOPMENT JOURNEY TIMELINE</span>
-            <span class="text-accent-yellow">GLA CSE → 2026</span>
+            <span class="text-accent-yellow">GLA CSE → 2029</span>
           </div>
 
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
