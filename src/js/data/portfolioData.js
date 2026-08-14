@@ -7,19 +7,19 @@ export const personalInfo = {
   name: "Navya Mittal",
   title: "B.Tech Computer Science Student & Aspiring Software/Data Professional",
   shortName: "NAVYA.M",
-  role: "B.Tech CSE Student",
+  role: "B.Tech CSE(AI & ML) Student",
   institution: "GLA University, Mathura",
-  degree: "B.Tech in Computer Science & Engineering",
-  graduationYear: "2026",
+  degree: "B.Tech in Computer Science & Engineering(AI & ML)",
+  graduationYear: "2029",
   location: "Mathura, India",
   status: "BUILD MODE: ON",
   currentlyLearningStatus: "ADVANCED DATA ENGINEERING & CLOUD SYSTEMS",
-  bio: "I am a B.Tech Computer Science student at GLA University with a passion for software development, data engineering, database architecture, and technology. I build robust data pipelines, design backend logic, and craft digital experiences with code.",
+  bio:"I am a B.Tech Computer Science student at GLA University specializing in Artificial Intelligence & Machine Learning, with a passion for software development, data engineering, database architecture, and technology.",
   linkedin: "https://www.linkedin.com/in/naveen-mittal-07b18a383/",
   github: "https://github.com/NaveensGit2007",
   email: "mittalnaveen294@gmail.com",
   quickBioPoints: [
-    "B.Tech Computer Science student at GLA University, Mathura",
+    "B.Tech CSE (AI & ML) student at GLA University, Mathura",
     "Passionate about software architecture & data engineering",
     "Hands-on experience with Python, SQL, REST APIs & Databases",
     "Continuous learner exploring cloud infrastructure & scalable systems"
@@ -29,15 +29,14 @@ export const personalInfo = {
 export const heroData = {
   headlineMain: "HI, I'M NAVYA.",
   headlineSub: "I BUILD, BREAK & LEARN THINGS WITH CODE.",
-  description: "Computer Science student at GLA University specializing in software engineering, data pipelines, database systems, and full-stack solutions. Code → Data → Products.",
-  stickers: [
+  description: "B.Tech CSE (AI & ML) student at GLA University specializing in Artificial Intelligence, Machine Learning, software engineering, data pipelines, and database systems. Code → Data → AI.",  stickers: [
     { text: "⚡ AVAILABLE FOR OPPORTUNITIES", color: "bg-accent-yellow" },
     { text: "💻 CTRL + CREATE", color: "bg-accent-blue" },
     { text: "🚀 BUILD MODE: ON", color: "bg-accent-green" },
     { text: "010101 DATA PIPELINES", color: "bg-accent-red" }
   ],
   quickStats: [
-    { label: "DEGREE", value: "B.Tech CSE" },
+    { label: "DEGREE", value: "B.Tech CSE (AI & ML)" },
     { label: "COLLEGE", value: "GLA Univ." },
     { label: "FOCUS", value: "Data & Code" },
     { label: "STATUS", value: "Available" }
@@ -192,16 +191,17 @@ export const projectsData = [
 ];
 
 export const educationData = {
-  degree: "B.TECH IN COMPUTER SCIENCE & ENGINEERING",
+  degree: "B.TECH IN COMPUTER SCIENCE & ENGINEERING (AI & ML)",
   institution: "GLA UNIVERSITY",
   location: "Mathura, Uttar Pradesh, India",
-  duration: "2022 - 2026 (Expected)",
+  duration: "2025 - 2029 (Expected)",
   status: "CURRENTLY PURSUING",
-  studentCardId: "GLA-CSE-2026-NM",
+  studentCardId: "GLA-CSE-2029-NM",
   highlights: [
     "Core focus on Database Management Systems (DBMS), Operating Systems, Software Engineering, and Object-Oriented Programming.",
     "Hands-on lab work in SQL relational database design, Python programming, and Software Engineering methodologies.",
-    "Active participant in technical student communities, coding challenges, and collaborative technology initiatives."
+    "Active participant in technical student communities, coding challenges, and collaborative technology initiatives.",
+    "Specialization in Artificial Intelligence & Machine Learning with a focus on intelligent systems, data-driven applications, and software engineering."
   ],
   coursework: [
     "Database Management Systems (DBMS)",
@@ -286,9 +286,9 @@ export const terminalCommands = {
   - clear      : Clear terminal screen output
   - run        : Execute a surprise code compilation test`,
   whoami: `NAME      : Navya Mittal
-ROLE      : B.Tech Computer Science Student @ GLA University
+ROLE      : B.Tech CSE (AI & ML) Student @ GLA University
 LOCATION  : Mathura, India
-SPECIALTY : Code → Data → Software Engineering
+SPECIALTY : AI & ML → Code → Data → Software Engineering
 STATUS    : Open for internship & software/data roles!`,
   skills: `PROGRAMMING : Python, SQL, Java, C++, JavaScript
 DATA        : Data Engineering, ETL Pipelines, REST APIs, Analytics
@@ -298,9 +298,9 @@ TOOLS/CLOUD : Microsoft Azure, Git, GitHub, VS Code`,
 02. Relational Database & Inventory System [SQL + MongoDB]
 03. Exploratory Data Cleansing & Analysis Suite [Python + Pandas]
 04. Interactive Neo-Brutalist Developer Portfolio [JS + CSS3]`,
-  education: `DEGREE      : B.Tech Computer Science & Engineering
+  education: `DEGREE      : B.Tech CSE (AI & ML)
 INSTITUTION : GLA University, Mathura, India
-TIMELINE    : 2022 - 2026`,
+TIMELINE    : 2025-2029`,
   contact: `LINKEDIN : https://www.linkedin.com/in/naveen-mittal-07b18a383/
 GITHUB   : https://github.com/NaveensGit2007
 EMAIL    : mittalnaveen294@gmail.com
