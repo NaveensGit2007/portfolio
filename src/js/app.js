@@ -1,4 +1,4 @@
-import { personalInfo, projectsData, terminalCommands } from './data/portfolioData.js';
+import { personalInfo, projectsData, terminalCommands } from '../data/portfolioData.js';
 import { toggleSound, isSoundEnabled, playClickSound, playKeyPressSound, playSuccessSound } from './utils/sound.js';
 import { renderNavbar } from './components/Navbar.js';
 import { renderHero } from './components/Hero.js';
